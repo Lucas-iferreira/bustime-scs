@@ -10,6 +10,8 @@
 # Variáveis de ambiente
 .env
 **/.env
+**/target/
+**/.idea/
 
 # Configurações locais
 application-local.properties
